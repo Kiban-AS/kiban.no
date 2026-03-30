@@ -3,9 +3,9 @@ banner:
   title: Skreddersydde plattformløsninger
   content: Vi er to erfarne konsulenter som hjelper deg med å bygge og drifte robuste, skalerbare plattformer med Kubernetes i kjernen.
   button:
-    enable: true
-    label: "Ta kontakt"
-    link: "/contact"
+    enable: false
+    label: ""
+    link: ""
 
 # feature
 feature:
@@ -29,31 +29,31 @@ services:
   - title: "Kubernetes-plattform fra bunnen av"
     content: "Enten du starter fra scratch eller ønsker å modne en eksisterende plattform, er vi klare. Vi designer klyngearkitekturer som er sikre, skalerbare og enkle å drifte, og vi dokumenterer alt slik at teamet ditt kan ta over."
     button:
-      enable: true
-      label: Ta kontakt
-      link: /contact
+      enable: false
+      label: ""
+      link: ""
 
   - title: "DevOps-automatisering som faktisk funker"
     content: "Vi setter opp moderne CI/CD-pipelines og hjelper teamet ditt med å jobbe mer effektivt. Vi tror på GitOps-prinsipper, slik at endringer er sporbare og reproduserbare."
     button:
-      enable: true
-      label: Ta kontakt
-      link: /contact
+      enable: false
+      label: ""
+      link: ""
 
   - title: "Sikkerhet og compliance innebygd"
     content: "Sikkerhet er ikke noe man bolter på etterpå. Vi hjelper med RBAC, nettverkspolicier, secrets-håndtering og sårbarhetsskanning, slik at plattformen din er compliant fra dag én."
     button:
-      enable: true
-      label: Ta kontakt
-      link: /contact
+      enable: false
+      label: ""
+      link: ""
 
 # call_to_action
 call_to_action:
   title: Klar til å løfte plattformen din?
-  content: Ta kontakt for en uforpliktende prat. Vi forteller deg ærlig hva som kan forbedres og hvordan vi kan hjelpe.
+  content: Ta kontakt for en uforpliktende prat. Send oss en e-post på [post@kiban.no](mailto:post@kiban.no).
   image: "/images/cta.png"
   button:
-    enable: true
-    label: "Ta kontakt"
-    link: "/contact"
+    enable: false
+    label: ""
+    link: ""
 ---
