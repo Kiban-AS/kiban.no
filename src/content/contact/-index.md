@@ -6,6 +6,6 @@ info:
   title: La oss ta en prat!
   description: Vi er alltid interessert i nye utfordringer og samarbeid. Enten du har et konkret prosjekt eller bare ønsker å diskutere muligheter, hører vi gjerne fra deg.
   contacts:
-    - "E-post: [hei@kiban.no](mailto:hei@kiban.no)"
+    - "E-post: [post@kiban.no](mailto:post@kiban.no)"
     - "Sted: Oslo, Norge"
 ---
