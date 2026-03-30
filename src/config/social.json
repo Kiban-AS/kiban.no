@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/company/kiban-as"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/Kiban-AS"
+    }
+  ]
+}

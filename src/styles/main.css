@@ -1,0 +1,42 @@
+@import "tailwindcss";
+@plugin "../tailwind-plugin/tw-theme.mjs";
+@plugin "../tailwind-plugin/tw-bs-grid.mjs";
+@plugin "@tailwindcss/forms";
+@plugin "@tailwindcss/typography";
+
+/* Class-based dark mode for Tailwind v4 */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Dark mode CSS variable overrides */
+.dark {
+  --color-body: #1a2d3d;
+  --color-light: #243d52;
+  --color-border: #355872;
+  --color-text: #9CD5FF;
+  --color-text-dark: #F7F8F0;
+}
+
+/* Hard-coded bg-white overrides */
+.dark .header {
+  background-color: var(--color-body);
+}
+.dark .feature-card {
+  background-color: var(--color-light) !important;
+}
+.dark .card {
+  background-color: var(--color-light);
+  border-color: var(--color-border);
+}
+
+@import "./safe.css";
+@import "./utilities.css";
+
+@layer base {
+  @import "./base.css";
+}
+
+@layer components {
+  @import "./components.css";
+  @import "./navigation.css";
+  @import "./buttons.css";
+}

@@ -1,0 +1,72 @@
+---
+import Base from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
+---
+
+<Base title="Folk | Kiban" description="Vi er to erfarne konsulenter innen DevOps og platform engineering i Norge.">
+  <section class="section">
+    <div class="container">
+      <div class="text-center mb-12">
+        <h1>Folka bak Kiban</h1>
+        <p class="mt-4 mx-auto max-w-2xl text-lg">
+          Vi er et lite og fokusert selskap. To konsulenter med dyp erfaring innen DevOps og platform engineering, med lidenskap for Kubernetes.
+        </p>
+      </div>
+
+      <div class="flex flex-wrap justify-center gap-16">
+
+        <!-- Erik -->
+        <div class="text-center max-w-xs">
+          <Image
+            src="/images/Erik-Snartland.jpg"
+            width={360}
+            height={360}
+            alt="Erik Snartland"
+            class="mx-auto rounded-full object-cover"
+            style="width: 180px; height: 180px; object-position: center 20%;"
+          />
+          <h2 class="h4 mt-4">Erik Snartland</h2>
+          <p class="text-primary font-medium">Platform Engineer & DevOps-konsulent</p>
+          <p class="mt-3">
+            Spesialist på Kubernetes, CI/CD og skyinfrastruktur. Brenner for å gjøre kompleks infrastruktur enkel og forståelig.
+          </p>
+          <p class="mt-4 text-sm">
+            <a href="mailto:erik@kiban.no" class="text-primary hover:underline">erik@kiban.no</a>
+          </p>
+        </div>
+
+        <!-- Samiul -->
+        <div class="text-center max-w-xs">
+          <Image
+            src="/images/Samiul-Saki-Chowdury.jpg"
+            width={360}
+            height={360}
+            alt="Samiul Saki Chowdury"
+            class="mx-auto rounded-full object-cover"
+            style="width: 180px; height: 180px; object-position: center 35%;"
+          />
+          <h2 class="h4 mt-4">Samiul Saki Chowdury</h2>
+          <p class="text-primary font-medium">Platform Engineer & DevOps-konsulent</p>
+          <p class="mt-3">
+            Erfaren med Kubernetes, automatisering og skyplattformer. Fokuserer på robuste, skalerbare løsninger som teamet faktisk kan drifte.
+          </p>
+          <p class="mt-4 text-sm">
+            <a href="mailto:samiul@kiban.no" class="text-primary hover:underline">samiul@kiban.no</a>
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="section bg-light">
+    <div class="container text-center">
+      <h2>Ta kontakt</h2>
+      <p class="mt-4 mx-auto max-w-xl text-lg">
+        Ønsker du å snakke med oss om et oppdrag? Send oss en e-post eller bruk kontaktskjemaet.
+      </p>
+      <a class="btn btn-primary mt-6" href="/contact">Kontakt oss</a>
+    </div>
+  </section>
+</Base>

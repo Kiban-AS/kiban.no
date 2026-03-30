@@ -1,0 +1,41 @@
+{
+  "site": {
+    "title": "Kiban | DevOps & Platform Engineering",
+    "base_url": "https://kiban.no",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/logo-uten-navn.png",
+    "logo": "/images/logo-uten-navn.png",
+    "logo_width": "140",
+    "logo_height": "38",
+    "logo_text": "Kiban"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Ta kontakt",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "footer_content": "Vi hjelper norske virksomheter med å bygge stabile, skalerbare plattformer med Kubernetes i kjernen.",
+    "copyright": "© 2026 Kiban AS. Alle rettigheter forbeholdt."
+  },
+
+  "metadata": {
+    "meta_author": "Kiban AS",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Kiban er et norsk konsulentselskap med to spesialister innen DevOps og platform engineering. Vi hjelper deg med Kubernetes, CI/CD og skyinfrastruktur."
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  }
+}

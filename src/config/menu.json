@@ -1,0 +1,31 @@
+{
+  "main": [
+    {
+      "name": "Hjem",
+      "url": "/"
+    },
+    {
+      "name": "Folk",
+      "url": "/folk"
+    },
+    {
+      "name": "Blogg",
+      "url": "/blogg"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Juridisk",
+      "menu": [
+        {
+          "text": "Personvernserklæring",
+          "url": "/privacy-policy"
+        },
+        {
+          "text": "Etiske retningslinjer",
+          "url": "/codeofconduct"
+        }
+      ]
+    }
+  ]
+}
