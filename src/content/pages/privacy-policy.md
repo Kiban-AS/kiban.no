@@ -27,9 +27,9 @@ Vi lagrer personopplysninger kun så lenge det er nødvendig for formålet de bl
 
 #### Dine rettigheter
 
-Du har rett til innsyn i, retting av og sletting av dine personopplysninger. Ta kontakt på [hei@kiban.no](mailto:hei@kiban.no) for å benytte deg av disse rettighetene.
+Du har rett til innsyn i, retting av og sletting av dine personopplysninger. Ta kontakt på [post@kiban.no](mailto:post@kiban.no) for å benytte deg av disse rettighetene.
 
 #### Kontakt
 
 Behandlingsansvarlig: Kiban AS
-E-post: [hei@kiban.no](mailto:hei@kiban.no)
+E-post: [post@kiban.no](mailto:post@kiban.no)
