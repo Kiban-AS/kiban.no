@@ -70,20 +70,6 @@ const homepageCollection = defineCollection({
   }),
 });
 
-//Contact collection schema
-const contactCollection = defineCollection({
-  loader: glob({ pattern: "**/-*.{md,mdx}", base: "src/content/contact" }),
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    draft: z.boolean(),
-    info: z.object({
-      title: z.string(),
-      description: z.string(),
-      contacts: z.array(z.string()),
-    }),
-  }),
-});
 
 //pricing collection schema
 const pricingCollection = defineCollection({
@@ -175,7 +161,7 @@ export const collections = {
   homepage: homepageCollection,
   blogg: blogCollection,
   pages: pagesCollection,
-  contact: contactCollection,
+
   pricing: pricingCollection,
   faq: faqCollection,
 };

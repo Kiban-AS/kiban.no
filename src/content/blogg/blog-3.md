@@ -37,4 +37,4 @@ Sett opp alerter for det som faktisk betyr noe, ikke for absolutt alt. For mange
 
 ---
 
-Vi hjelper gjerne med å sette opp en komplett observability-stack. [Kontakt oss](/contact).
+Vi hjelper gjerne med å sette opp en komplett observability-stack. [post@kiban.no](mailto:post@kiban.no).
