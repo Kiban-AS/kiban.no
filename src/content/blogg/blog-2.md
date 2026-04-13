@@ -37,4 +37,4 @@ Start enkelt: ett applikasjonsrepo, ett konfigurasjonrepo, én ArgoCD-instans. I
 
 ---
 
-Ønsker du hjelp med å sette opp GitOps i din virksomhet? [post@kiban.no](mailto:post@kiban.no).
+Ønsker du hjelp med å sette opp GitOps i din virksomhet? post@kiban.no.

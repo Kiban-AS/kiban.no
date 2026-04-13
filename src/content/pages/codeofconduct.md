@@ -27,4 +27,4 @@ Vi behandler all kundeinformasjon konfidensielt. Vi deler aldri sensitiv informa
 
 #### Varsling
 
-Dersom noen opplever at vi handler i strid med disse retningslinjene, ønsker vi å vite om det. Ta kontakt på [post@kiban.no](mailto:post@kiban.no).
+Dersom noen opplever at vi handler i strid med disse retningslinjene, ønsker vi å vite om det. Ta kontakt på post@kiban.no.

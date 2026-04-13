@@ -46,4 +46,4 @@ Installer Prometheus og Grafana fra starten. Det er langt enklere å feilsøke e
 
 ---
 
-Lurer du på hvordan dette ser ut i praksis for din virksomhet? [post@kiban.no](mailto:post@kiban.no) for en uforpliktende prat.
+Lurer du på hvordan dette ser ut i praksis for din virksomhet? post@kiban.no for en uforpliktende prat.
