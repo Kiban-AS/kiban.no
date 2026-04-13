@@ -49,4 +49,4 @@ Sett opp automatisk `terraform plan` på pull requests slik at teamet kan se hva
 
 ---
 
-Har du behov for hjelp med IaC? Vi tar gjerne en prat. [post@kiban.no](mailto:post@kiban.no).
+Har du behov for hjelp med IaC? Vi tar gjerne en prat. post@kiban.no.

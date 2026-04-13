@@ -16,14 +16,8 @@
     "summary_length": 200
   },
 
-  "nav_button": {
-    "enable": false,
-    "label": "Ta kontakt",
-    "link": "mailto:post@kiban.no"
-  },
-
   "params": {
-    "contact_form_action": "mailto:post@kiban.no",
+    "contact_form_action": "#",
     "footer_content": "Vi hjelper norske virksomheter med å bygge stabile, skalerbare plattformer med Kubernetes i kjernen.",
     "copyright": "© 2026 Kiban AS. Alle rettigheter forbeholdt."
   },

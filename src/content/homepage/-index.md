@@ -50,7 +50,7 @@ services:
 # call_to_action
 call_to_action:
   title: Klar til å løfte plattformen din?
-  content: Ta kontakt for en uforpliktende prat. Send oss en e-post på [post@kiban.no](mailto:post@kiban.no).
+  content: Ta kontakt for en uforpliktende prat. Send oss en e-post på post@kiban.no.
   image: "/images/cta.png"
   button:
     enable: false

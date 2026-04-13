@@ -48,4 +48,4 @@ For norske virksomheter er det viktig å ha oversikt over hvor data lagres. Sør
 
 ---
 
-Vil du ha en sikkerhetsgjennomgang av din Kubernetes-plattform? [post@kiban.no](mailto:post@kiban.no).
+Vil du ha en sikkerhetsgjennomgang av din Kubernetes-plattform? post@kiban.no.
